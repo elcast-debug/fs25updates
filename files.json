@@ -1,9 +1,6 @@
 {
-  "pdlc/daimlerTruckPack.dlc": "df22a83c526ded5b3a5d1deaed0d914b3388b6b7",
-  "pdlc/extraContentNewHollandCR11.dlc": "6ec0cd537568353f5ae30ac80101859cfd5c3108",
-  "pdlc/highlandsFishingPack.dlc": "9787c063465af56b396dc41f4b3b359a0b0b93b7",
-  "pdlc/macDonPack.dlc": "a57c7db9327d1248806cc3508cc0a05980a30779",
-  "pdlc/nexatPack.dlc": "c8a92ee06ffb346b40c15d25871f97b9a5f2e6e2",
-  "pdlc/plainsAndPrairiesPack.dlc": "b184da59064edc70348f41386e38431bacee0206",
-  "pdlc/strawHarvestPack.dlc": "28af9bffc09c609b468a8e2435a3dcb2f8ed6a34"
+  "pdlc/Floor_Floor_BaseColor.png": "cfa1fe9deb65cf7aa3c49a096bb5db74399c3bbc",
+  "pdlc/Floor_Floor_Emissive.png": "3edc20cb7a5076c53908e6eb0f0c1a9a0e5805a3",
+  "pdlc/Floor_Floor_Normal.png": "1fbddb17897f4ec9fd3bd0f155d490bc84b97782",
+  "pdlc/Floor_Floor_OcclusionRoughnessMetallic.png": "f211d290666b97480b0e3fb2bc314d3057b09b01"
 }
